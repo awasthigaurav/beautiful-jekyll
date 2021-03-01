@@ -14,8 +14,8 @@ author: Gaurav Awasthi
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-About Me: "aboutme"
-Future Stuff: "futurestuff" 
+  About Me: "aboutme"
+  Future Stuff: "futurestuff" 
 # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
