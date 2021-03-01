@@ -9,5 +9,5 @@ So here goes:
 
 * A couple of rickrolls, obviously
 * Dark mode
-* Acknowledgements to all the people who helped isnpire this website
+* Acknowledgements to all the people who helped inspire this website
 * Update the "about me" page
