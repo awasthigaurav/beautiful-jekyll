@@ -4,12 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gaurav Awasthi.  
+ I have no idea why I'm making this website, or what purpose it will serve, but oh, well.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
