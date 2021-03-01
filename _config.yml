@@ -15,7 +15,8 @@ author: Gaurav Awasthi
 
 navbar-links:
   About Me: "aboutme"
-  Future Stuff: "futurestuff" 
+  Future Stuff: "futurestuff"
+  Blog: "blog"
 # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
