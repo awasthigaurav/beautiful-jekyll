@@ -1,14 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hello, world!
 ---
 
 My name is Gaurav Awasthi.  
- I have no idea why I'm making this website, or what purpose it will serve, but oh, well.
-
-
+I'm a first-year undergrad at the Indian Institute of Technology, Bombay.  
+I have no idea why I'm making this website, or what purpose it will serve, but oh, well.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, but I will _probably_ update this later.
