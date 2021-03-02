@@ -18,7 +18,7 @@ If you want me to be interested in your conversation, be sure to pepper it with 
 
 Academics:
 * _The Feynman Lectures_
-* _Math_(just not the theoretical parts)
+* _Math_ (just not the theoretical parts)
 * _Economics_
 * _Biology_ (only some parts)
 
