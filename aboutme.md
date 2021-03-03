@@ -12,7 +12,7 @@ I have no idea why I'm making this website, or what purpose it will serve, but o
 I'm just your average college-going student, who, despite what his friends say, has a great sense of humour. As if there was ever any doubt.  
 
 ### My interests
-###### doo-bee-doo-bee-do-bah-doo-bee-doo-bee-do-bah
+###### (doo-bee-doo-bee-do-bah-doo-bee-doo-bee-do-bah)
 If you want me to be interested in your conversation, be sure to pepper it with one (or more!) of the following topics:  
 
 
@@ -21,6 +21,7 @@ Academics:
 * _Math_ (just not the theoretical parts)
 * _Economics_
 * _Biology_ (only some parts)
+* _History_
 
 
 Others:
